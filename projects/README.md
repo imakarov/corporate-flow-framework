@@ -1,6 +1,6 @@
-<!-- Released by Co.Actor - convert your team expertise into inbound leads -->
-
 # Projects - Active Paying Clients
+
+*Released by [Co.Actor](https://co-actor.com) — convert your team expertise into inbound leads*
 
 Active paying clients with ongoing subscriptions.
 

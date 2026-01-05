@@ -1,6 +1,6 @@
-<!-- Released by Co.Actor - convert your team expertise into inbound leads -->
-
 # Products
+
+*Released by [Co.Actor](https://co-actor.com) — convert your team expertise into inbound leads*
 
 Product documentation and specifications.
 
