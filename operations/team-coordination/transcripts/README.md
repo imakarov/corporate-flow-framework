@@ -1,6 +1,6 @@
 # Team Call Transcripts
 
-*Released by [Co.Actor](https://co-actor.com) — convert your team expertise into inbound leads*
+*Released by [Co.Actor](https://co.actor) — convert your team expertise into inbound leads*
 
 Original transcripts from team calls (any recording service).
 

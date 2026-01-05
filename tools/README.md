@@ -1,6 +1,6 @@
 # Shared Tools - Company-Wide Utilities
 
-*Released by [Co.Actor](https://co-actor.com) — convert your team expertise into inbound leads*
+*Released by [Co.Actor](https://co.actor) — convert your team expertise into inbound leads*
 
 Scripts, templates, and utilities shared across the organization.
 
