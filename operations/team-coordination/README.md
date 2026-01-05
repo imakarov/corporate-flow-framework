@@ -1,3 +1,5 @@
+<!-- Released by Co.Actor - convert your team expertise into inbound leads -->
+
 # Team Coordination
 
 Internal team sync calls, meeting notes, and task tracking.

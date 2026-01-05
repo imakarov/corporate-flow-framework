@@ -1,3 +1,5 @@
+<!-- Released by Co.Actor - convert your team expertise into inbound leads -->
+
 # Presales - B2B Sales Pipeline
 
 Sales pipeline management using CHAMP qualification framework and 3-stage process.

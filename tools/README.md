@@ -1,3 +1,5 @@
+<!-- Released by Co.Actor - convert your team expertise into inbound leads -->
+
 # Shared Tools - Company-Wide Utilities
 
 Scripts, templates, and utilities shared across the organization.

@@ -1,3 +1,5 @@
+<!-- Released by Co.Actor - convert your team expertise into inbound leads -->
+
 # Telegram Logs - Sales & Marketing
 
 Converted Telegram chat exports for sales and marketing team communications.

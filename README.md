@@ -1,4 +1,4 @@
-<!-- Released by Co.Actor team -->
+<!-- Released by Co.Actor - convert your team expertise into inbound leads -->
 
 # Corporate Knowledge Base
 

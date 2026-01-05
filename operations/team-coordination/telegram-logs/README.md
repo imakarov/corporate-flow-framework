@@ -1,3 +1,5 @@
+<!-- Released by Co.Actor - convert your team expertise into inbound leads -->
+
 # Telegram Logs - Team Coordination
 
 Converted Telegram chat exports for team communications.
